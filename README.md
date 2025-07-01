@@ -8,6 +8,8 @@ An html qr card.
 
 This is the result:
 
+![bla](https://github.com/user-attachments/assets/1f0c83be-bca7-48e8-b140-d958b82c117b)
+
 ## How to use?
 
 1. Open index.html
